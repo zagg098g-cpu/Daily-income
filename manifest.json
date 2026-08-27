@@ -12,14 +12,14 @@
   "description": "একটি অ্যাপ যেখানে আপনি বিজ্ঞাপন দেখে এবং টাস্ক পূরণ করে প্রতিদিন আয় করতে পারবেন",
   "icons": [
     {
-      "src": "/icon-192x192.png",
+      "src": "/https://i.ibb.co/XG1Bx3T/launchericon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon-512x512.png",
-      "sizes": "https://i.ibb.co/cSTNQtz4/launchericon-512x512.png",
+      "src": "/https://i.ibb.co/cSTNQtz4/launchericon-512x512.png",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
