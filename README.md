@@ -1,0 +1,27 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "daily-income-bv43.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "daily-income-bv43.vercel",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.daily.income",
+  "description": "একটি অ্যাপ যেখানে আপনি বিজ্ঞাপন দেখে এবং টাস্ক পূরণ করে প্রতিদিন আয় করতে পারবেন",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
